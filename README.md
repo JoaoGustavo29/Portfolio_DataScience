@@ -14,7 +14,8 @@ As a student and aspiring data scientist, I try to improve my analytical skills 
 * [Medium](https://medium.com/@joaogustavo.borges2901)
 
 ## Projetos:
-** EM BREVE**
+
+* **Análise dos Dados do Airbnb - Dublin:** http://bit.ly/39ISXGX
 
 ---
 
