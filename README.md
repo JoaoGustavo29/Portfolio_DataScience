@@ -11,7 +11,7 @@ As a student and aspiring data scientist, I try to improve my analytical skills 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/joão-gustavo-borges-e-souza-6700451b8/)
-
+* [Medium](https://medium.com/@joaogustavo.borges2901)
 
 ## Projetos:
 ** EM BREVE**
