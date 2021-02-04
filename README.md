@@ -15,7 +15,8 @@ As a student and aspiring data scientist, I try to improve my analytical skills 
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb - Dublin:** bit.ly/2MzDTCX
+* **Análise dos Dados do Airbnb - Dublin:** http://bit.ly/2MzDTCX
+
 
 
 ---
