@@ -5,7 +5,7 @@
 # João Gustavo
 <sub>*Computer Science student* at UCB</sub>
 
-As a student and aspiring data scientist, I try to improve my analytical skills and my attention to details.In the next few years I will be posting some projects and finishing my college.
+As a student and data scientist, I try to improve my analytical skills and my attention to details. In the next few years I will be posting some projects and finishing my college.
 
 **Background in:** Python.
 
