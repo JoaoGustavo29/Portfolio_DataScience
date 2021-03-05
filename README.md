@@ -17,6 +17,7 @@ As a student and data scientist, I try to improve my analytical skills and my at
 
 * **Análise dos Dados do Airbnb - Dublin:** http://bit.ly/2MzDTCX
 
+* **Analisando a Violência - Rio de Janeiro ** http://bit.ly/3c7XToL
 
 
 ---
