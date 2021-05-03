@@ -13,7 +13,7 @@ As a student and data scientist, I try to improve my analytical skills and my at
 * [LinkedIn](https://www.linkedin.com/in/joão-gustavo-borges-e-souza-6700451b8/)
 * [Medium](https://medium.com/@joaogustavo.borges2901)
 
-## Projetos:
+## Projects:
 
 * **Análise dos Dados do Airbnb - Dublin:** http://bit.ly/2MzDTCX
 
