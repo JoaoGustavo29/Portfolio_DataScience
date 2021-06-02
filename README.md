@@ -21,7 +21,7 @@ As a student and data scientist, I try to improve my analytical skills and my at
 
 * **Análise de Dados do Panorama da COVID-19 no Brasil e no Mundo(Com Limpeza Exploratória):** https://bit.ly/2S3k5Kv
 
-* **Análise de Dados do Panorama da COVID-19 no Brasil e no Mundo(Sem Limpeza Exploratória):**
+* **Análise de Dados do Panorama da COVID-19 no Brasil e no Mundo(Sem Limpeza Exploratória):** https://bit.ly/3wN5T7B
 
 ---
 
