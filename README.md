@@ -28,7 +28,7 @@ As a student and data scientist, I try to improve my analytical skills and my at
 * **Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3oOZRSX
 
 
-* **Avaliação de Risco de Crédito (em desenvolvimento):** https://bit.ly/3xJw7uz
+* **Avaliação de Risco de Crédito :** https://bit.ly/3xJw7uz
 ---
 
 
