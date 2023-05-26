@@ -30,6 +30,6 @@ As a student and data scientist, I try to improve my analytical skills and my at
 
 * **Avaliação de Risco de Crédito :** https://bit.ly/3xJw7uz
 ---
-[aloalo]
+
 
 
