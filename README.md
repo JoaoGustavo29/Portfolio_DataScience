@@ -19,10 +19,6 @@ As a student and data scientist, I try to improve my analytical skills and my at
 
 * **Analisando a Violência - Rio de Janeiro:** http://bit.ly/3c7XToL
 
-* **Análise de Dados do Panorama da COVID-19 no Brasil e no Mundo(Com Limpeza Exploratória):** https://bit.ly/2S3k5Kv
-
-* **Análise de Dados do Panorama da COVID-19 no Brasil e no Mundo(Sem Limpeza Exploratória):** https://bit.ly/3wN5T7B
-
 * **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3lSEO0A
 
 * **Churn Prediction para uma empresa de Telecomunicações:** https://bit.ly/3oOZRSX
